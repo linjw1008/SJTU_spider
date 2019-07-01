@@ -1,0 +1,30 @@
+url: http://xsb.seiee.sjtu.edu.cn/xsb/info/15090.htm
+title: 关于2019届电院本科毕业生毕业照存档信息收集的通知
+date: [ 2019年5月15日 ]
+text: 
+
+各位本科生毕业班：
+
+请在2019年5月23日（周四）前协助完成以下任务：（推荐使用FileZilla等软件完成，下载地址：https://ftp2.sjtu.edu.cn/software/Network/Client/FTP/FileZilla/）
+
+请到ftp://public.sjtu.edu.cn（用户名：xiaohan0227 密码：public）中完成下列操作：
+
+
+
+1、到链接: https://pan.baidu.com/s/1pq-_wyD1bAThrL0-iLxZtA 提取码：3gzv ，下载各自班级的照片（之前已经发过一遍）；
+
+
+
+
+
+2、如有同学想PS上去的，班内自行协调并PS成最终打印版照片，将统一按此版照片进行打印。
+
+
+
+
+
+3、到【public】下载两份存档文件{模板}，按照最终打印版班级照（学位服照和生活照）同学们的位置，完成存档信息收集。注意，左边指的是“正在看照片的人”的左右（即照片的左右）。
+
+
+
+4、两份存档文件连同两张最终打印版班级照（学位服照和生活照）放入一个文件夹中，文件夹命名为班级号【F150XXXX】），上传到【upload】-【2019级本科生毕业照收集】文件夹！

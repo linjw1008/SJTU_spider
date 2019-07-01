@@ -1,0 +1,74 @@
+url: http://xsb.seiee.sjtu.edu.cn/xsb/info/14385.htm
+title: 国际学术论坛-集成电路设计前研
+date: [ 2018年10月19日 ]
+text: 
+
+国际学术论坛—集成电路设计前研
+
+
+International Forum on New Frontiers in IC Design
+
+ 
+
+ 一、时间
+
+ 
+
+
+Oct. 20 2018, Saturday, 2:00pm-4:30pm
+
+ 二、地点：
+
+ 
+
+
+Microelectronics Building, Shanghai Jiao Tong University
+
+
+上海交大微电子大楼 1 楼报告厅 (闵行区东川路 600 号上海交通大 学南门进去左手边第一幢楼)
+
+ 三、主持人：
+
+ 
+
+
+Jianjun Zhou, 周健军教授
+
+ 四、讲座内容：
+
+ 
+
+
+讲座 1: Noise Filtering and Linearization of Single-Ended Circuits
+
+
+讲座 2: Switched-Capacitor Circuits: From Maxwell to the Internet of Things
+讲座 3: Noise-Shaped Active SAR Analog-to-Digital Converter
+
+ 五、主讲嘉宾：
+
+ 
+
+
+专家 1: Prof. Gabor Temes简介:
+
+
+美国俄勒冈州立大学电机工程系教授; 美国国家工程学院院士; IEEE终身院士; 曾担任洛杉矶加州大学和俄勒冈州立大学电机 工程系系主任;荣获过大奖: IEEE Centennial Medal, IEEE Millennium Medal, IEEE Gustav R. Kirchhoff Award, IEEE CAS Darlington Award, IEEE CAS Golden Jubilee Medal, and IEEE CAS Mac Van Valkenburg Award.
+
+ 
+
+
+专家 2: Prof. David Allstot简介:
+
+
+美国俄勒冈州立大学电机工程系教授; IEEE终身院士; 曾担 任华盛顿大学电机工程系系主任以及世界著名的伯克利加州 大学无线研究中心执行主任;
+荣获过大奖: IEEE W.R.G. Baker Award, IEEE CAS Darlington Award (twice), IEEE ISSCC Beatrice Winner Award, IEEE CAS Charles A. Desoer Technical Achievement Award, SRC Aristotle Award, Semiconductor Industries Association University Research Award, IEEE CAS Mac Van Valkenburg Award.
+
+ 
+
+
+ 六、学生报名
+
+ 感兴趣的学生在同去网报名https://tongqu.me/act/18306
+
+ 该活动计研究生讲座素拓一次，微纳电子学系还计入学术报告会一次。

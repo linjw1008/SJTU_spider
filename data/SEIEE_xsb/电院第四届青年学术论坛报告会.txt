@@ -1,0 +1,62 @@
+url: http://xsb.seiee.sjtu.edu.cn/xsb/info/15139.htm
+title: 电院第四届青年学术论坛报告会
+date: [ 2019年5月24日 ]
+text: 
+
+
+
+Mo-Yuen Chow earned his degree in Electrical and Computer Engineering from the University of Wisconsin-Madison (B.S., 1982); and Cornell University (M. Eng., 1983; Ph.D., 1987). Dr. Chow is a Professor in the Department of Electrical and Computer Engineering at North Carolina State University. He was a Changjiang Scholar.
+
+
+Keynote Speech: Resilient Cyberphysical System: Networked Microgrids Energy Management Systems
+
+
+Abstract: As the future smart grid technologies advances, the smart grid is gradually evolving into a highly sophisticated cyberphysical system. The Networked Microgrids (NMG) is widely envisioned to be the building block for the future smart grid, for its autonomy, distributed energy resources hosting capability, enhancements in reliability and resilience, etc. This presentation will dissect the NMG vision into several key technologies in the cyber and physical layers, e.g. the needs of network/information technology to enable the resilience, reliability, and cost-effective operation of the networked NMG. This presentation will also highlight two of the fundamental technologies: resilient Collaborative Distributed Energy Management Systems (CoDEMS) and hierarchical distributed EMS that are currently developed at ADAC lab. The presentation will also pay attention to the critical component of the resilient NMG --- energy storage device, which serves as the cornerstone of reliability and resilience enhancements.
+
+
+
+
+
+
+
+Mo-Yuen Chow earned his degree in Electrical and Computer Engineering from the University of Wisconsin-Madison (B.S., 1982); and Cornell University (M. Eng., 1983; Ph.D., 1987). Dr. Chow is a Professor in the Department of Electrical and Computer Engineering at North Carolina State University. He was a Changjiang Scholar.
+
+
+Keynote Speech: Resilient Cyberphysical System: Networked Microgrids Energy Management Systems
+
+
+Abstract: As the future smart grid technologies advances, the smart grid is gradually evolving into a highly sophisticated cyberphysical system. The Networked Microgrids (NMG) is widely envisioned to be the building block for the future smart grid, for its autonomy, distributed energy resources hosting capability, enhancements in reliability and resilience, etc. This presentation will dissect the NMG vision into several key technologies in the cyber and physical layers, e.g. the needs of network/information technology to enable the resilience, reliability, and cost-effective operation of the networked NMG. This presentation will also highlight two of the fundamental technologies: resilient Collaborative Distributed Energy Management Systems (CoDEMS) and hierarchical distributed EMS that are currently developed at ADAC lab. The presentation will also pay attention to the critical component of the resilient NMG --- energy storage device, which serves as the cornerstone of reliability and resilience enhancements.
+
+
+
+
+
+
+P. R. Kumar
+
+
+Title： Regents Professor，Distinguished Professor，College of Engineering Chair in Computer Engineering， TEXAS A&M UNIVERSITY，Member, National Academy of Engineering，USA
+
+
+Keynote Speech: Real time wireless networks
+
+
+Abstract: Inspired by classical results in real-time scheduling, we consider a model of an access point serving several flows, and provide a possibly surprising characterization of what throughput vectors feasible, as well as throughput-optimal scheduling policies that are almost static. Then we turn to multi-hop networks with end-to-end deadlines, and show that under some models of concurrency constraints, one can obtain decentralized policies that are throughput optimal.
+
+
+
+
+
+
+
+
+时间：2019年6月2日（星期日）下午13:10（13:20分之后不再签到）
+
+
+地点：微电子楼报告厅
+
+
+本次讲座电气系，自动化系，计算机系计一次学术报告会。
+
+
+其他系学生计一次讲座素拓。

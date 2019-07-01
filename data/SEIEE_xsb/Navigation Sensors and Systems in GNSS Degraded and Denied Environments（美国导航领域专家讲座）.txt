@@ -1,0 +1,22 @@
+url: http://xsb.seiee.sjtu.edu.cn/xsb/info/8031.htm
+title: Navigation Sensors and Systems in GNSS Degraded and Denied Environments（美国导航领域专家讲座）
+date: [ 2014年6月4日 ]
+text: 
+各位同学，该讲座针对相关专业研究生。
+时间：2014年6月9日周一下午13:30~15:00
+地点：电院3-200报告厅
+领票方式：即日起至电院3-102找助管领取，每人限领2张。
+该讲座计入综合测评中讲座栏目。
+ 
+Navigation Sensors and Systems in GNSS Degraded and Denied Environments
+George T. Schmidt*
+ 
+Abstract
+Position, velocity, and timing (PVT) signals from various Global Navigation Systems (GNSS) are used throughout the world but the availability and reliability of these signals in all environments has become a subject of concern for both military and civilian applications. International news reports about a successful GPS spoofing attack on a civilian UAV at the White Sands Missile Range in New Mexico, USA have increased concerns over the planned use of UAVs in the national airspace and safety of flight in general. Other examples of the effects of GPS interference and jamming are illustrated in this presentation. This is a particularly difficult problem that requires new and innovative ideas to fill the PVT gap when the data are degraded or unavailable. One solution is to use inertial and/or other sensors to bridge the gap in navigation information. This presentation summarizes the past and recent advances in navigation sensor technology, including GPS, inertial, and other navigation aids. Projections for the future are given. This presentation also describes recent advances in sensor integration technology and the synergistic benefits are explored. Expected technology improvements to system robustness are also described. Applications being made possible by this advanced performance include personal navigation systems, robotic navigation, and autonomous systems with unprecedented low-cost and accuracy.
+*IEEE Life Fellow, AIAA Fellow
+Distinguished Lecturer and V.P. Member Services, IEEE Aerospace and Electronics Systems Society
+主讲人介绍：
+
+George T. Schmidt is Vice President, Member Services and a member of the Board of Governors of the Institute of Electrical and Electronics Engineers (IEEE), Aerospace and Electronic Systems Society (AESS). He is also a Distinguished Lecturer for that society. He is the Director of the NATO Systems and Electronic Technology Panel Lecture Series on Navigation Sensors and Systems in Global Navigation Satellite Systems (GNSS) Degraded and Denied Environments. He recently completed 17 years of service as Editor-in-Chief of the American Institute of Aeronautics and Astronautics (AIAA) Journal of Guidance, Control, and Dynamics. He was responsible for managing the peer review of more than 6500 submitted papers. He is an AIAA Fellow, and a Life Fellow of the IEEE.
+From 1961 through 2007, he was at the MIT Instrumentation Laboratory and the Draper Laboratory, Cambridge, Massachusetts. His final position was as the Draper Director of Education. Prior to that position he was the Leader of the Guidance and Navigation Division and Director of the Draper Guidance Technology Center. His major technical activities have been in guidance and navigation system design for missiles, aircraft, and manned spacecraft; Kalman filtering applications; integration and relative target techniques for high-resolution synthetic aperture radars; satellite navigation systems; and inertial sensors. For many years he was a Lecturer in Aeronautics and Astronautics at MIT, recently. He has received many awards including the AIAA International Cooperation Award in 2001 and the NATO Science and Technology Organization’s highest technical award, the von Kármán Medal in 2005. He is author or contributing author of more than 90 technical papers, reports, encyclopedia articles, and books. He received his S.B. and S.M. degrees in Aeronautics and Astronautics from MIT and his Sc.D. in Instrumentation from MIT.
+ 

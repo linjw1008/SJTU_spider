@@ -1,0 +1,4 @@
+url: http://xsb.seiee.sjtu.edu.cn/xsb/info/13884.htm
+title: 物联网前沿技术讲座
+date: [ 2018年5月14日 ]
+text: 

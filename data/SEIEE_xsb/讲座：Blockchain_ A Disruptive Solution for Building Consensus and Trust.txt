@@ -1,0 +1,9 @@
+url: http://xsb.seiee.sjtu.edu.cn/xsb/info/14601.htm
+title: 讲座：Blockchain: A Disruptive Solution for Building Consensus and Trust
+date: [ 2018年12月18日 ]
+text: 
+
+报告人简介：Dr. Zhao is a Professor at the Department of Electrical Engineering and Computer Science, Cleveland State University. He got his BS and MS degrees from the Physics Department in Peking University. He earned his Ph.D. at University of California, Santa Barbara in 2002. He has over 180 peer-reviewed publications. Dr. Zhao’s research spans from dependable distributed systems to human centered smart systems. His research has been funded by the US NSF, US Department of Transportation, Ohio Bureau of Workers’ Compensation, Ohio Department of Higher Education, the Ohio Development Services Agency, and Woodruff Foundation. He has delivered more than 10 keynotes, tutorials, public talks and demonstrations in various conferences, industry and academic venues. Dr. Zhao is an associate editor for IEEE Access, MDPI Computers, and PeerJ Computer Science, and a member of the editorial board of several international journals, including Applied System Innovation, Internal Journal of Parallel, Emergent and Distributed Systems, and International Journal of Distributed Systems and Technologies. He is currently an IEEE Senior Member and serves on the executive committee of the IEEE Cleveland Section.
+
+
+研究生记一次讲座活动。

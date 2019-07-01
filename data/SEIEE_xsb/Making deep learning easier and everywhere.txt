@@ -1,0 +1,23 @@
+url: http://xsb.seiee.sjtu.edu.cn/xsb/info/14241.htm
+title: Making deep learning easier and everywhere
+date: [ 2018年9月12日 ]
+text: 
+
+各位同学：
+
+
+现告知讲座活动如下：
+
+
+主题：Making deep learning easier and everywhere
+嘉宾：Bio: 王贻达，亚马逊AWS AI团队应用科学家， AWS Deep Learning Complier项目技术带头人。在加入亚马逊之前，曾在英特尔实验室并行计算实验室担任研究科学家。王贻达是普林斯顿大学计算机科学和脑神经科学博士，研究方向是高性能计算和大数据分析。目前致力于优化深度学习模型在不同类型硬件架构例如CPU、GPU和专用加速器上的推理。
+时间：9月21号15：00-17：00
+地点：电院3号楼-200
+
+
+
+
+电院学生办
+
+
+2018年9月12日
